@@ -34,6 +34,10 @@ More... | No | No | No | No
 
 #### Implementing MaterialSkin in your application
 
+
+<a href="https://www.youtube.com/watch?v=Dd_LS6J5KAU&feature=youtu.be" target="_blank">![alt tag](http://i.imgur.com/JAttoOo.png)</a>
+
+
 **1. Add the library to your project**
 
   You can do this on multiple ways. The easiest way would be adding the [NuGet Package](https://www.nuget.org/packages/MaterialSkin/). Right click on your project and click 'Manage NuGet Packages...'. Search for 'MaterialSkin' and click on install. Once installed the library will be included in your project references. (Or install it through the package manager console: PM> Install-Package MaterialSkin)
